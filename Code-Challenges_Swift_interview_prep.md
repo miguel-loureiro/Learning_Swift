@@ -453,6 +453,6 @@ subStrings("bolo", "gulosobtberolocreme") // retorna true
 
 16. **`Find the Longest Increasing Subsequence`**
 
-`Write a function that takes an array of integers as input and returns the longest increasing subsequence.`  
-`Example input: [10, 22, 9, 33, 21, 50, 41, 60, 80] Example output: [10, 22, 33, 50, 60, 80]`
+Write a function that takes an array of integers as input and returns the longest increasing subsequence.  
+Example input: [10, 22, 9, 33, 21, 50, 41, 60, 80] Example output: [10, 22, 33, 50, 60, 80]
 
